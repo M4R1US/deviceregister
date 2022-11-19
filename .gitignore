@@ -2,11 +2,13 @@
 *.class
 
 # Java settings
-
 .java-version
 
-# Idea project foler
+# Maven
+.mvn
+target/
 
+# Idea project foler
 .idea
 
 # Log file
